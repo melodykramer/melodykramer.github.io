@@ -1,29 +1,20 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Carolina Population Center
+description: Carolina Population Center
+img: assets/img/carolina-population-center.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I oversee the communications, branding, digital media, and media relations strategy for a 300-person research center that has generated over $250 million in grants over the past 5 years. I lead a talented team of professionals who create content across digital, social, and print platforms, highlighting the achievements of our faculty, staff, and students. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I also provide communications and digital strategy support to our faculty and senior leadership team, helping to promote the impact of our research to external and internal audiences. That can vary from prepping a faculty member for congressional testimony, to creating a social media strategy for a longitudinal study, to leading UX and content strategy for a website redesign.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/carolina-demography.jpg" title="Carolina Demography" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

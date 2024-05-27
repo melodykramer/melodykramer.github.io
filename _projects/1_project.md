@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Carolina Population Center
-description: Carolina Population Center
+description: Director of Communications
 img: assets/img/carolina-population-center.jpg
 importance: 1
 category: work

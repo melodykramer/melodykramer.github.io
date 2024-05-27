@@ -85,20 +85,23 @@
         - Knight Prototype Fellowship
     - year: 2013
       items:
-        - Knight-Nieman Visiting Fellowship, Harvard University
-        - Knight Prototype Fellowship
+        - Village Voice Web Awards - Best Professional Tumblr
+        - Shorty Award - Best Microblog of the Year (Finalist)
+        - Philadelphia Geek Awards - Social Media Campaign of the Year (Finalist)
+    - year: 2011
+      items:
+        - iTunes Podcast of the Year (Fresh Air with Terry Gross)
+    - year: 2008
+      items:
+        - Peabody Award
+    - year: 2005
+      items:
+        - Nora Magid Prize for Creative Non-Fiction, University of Pennsylvania
+        - Phi Kappa Sigma Fiction Prize, University of Pennsylvania
+        - Daily Pennsylvanian Columnist of the Year
+        - National Association of Newspaper Columnists, Columnist of the Year (finalist)
+        - olumbia University Scholastic Press Association, Gold Circle Awards, General Column Writing (1rst prize)
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
 - title: Other Interests
   type: list

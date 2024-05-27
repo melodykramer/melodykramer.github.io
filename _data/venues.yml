@@ -1,8 +1,14 @@
 "science":
-  color: "#00369f"
+  color: "#C2E812"
 
 "journalism":
-  color: "#00369f"
+  color: "#8B9EB7"
 
-"Vision":
-  color: "#009f36"
+"pop-culture":
+  color: "#632A50"
+
+"demography":
+  color: "#8b9eb7"
+
+"archives":
+  color: "#745296"

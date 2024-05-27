@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Email: melodykramer@gmail.com</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Over my 20-year career, I've worked with some of the largest nonprofits and brands in the world, and led teams and projects alongside academics, engineers, journalists, [non-profit executives](https://wikimediafoundation.org/), and [federal government departments](https://18f.gsa.gov/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I cut my teeth writing intros for Terry Gross and jokes for Wait Wait...Don't Tell Me, and have spent most of my career identifying and building audiences, translating and curating information, and increasing engagement in person, in print, and online for mission-driven organizations and causes.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can see projects I've worked on here.
+
+I'm a trained librarian with a knack for both qualitative and quantitative feedback: I co-led the team that created NPR's internal analytics dashboard and worked on a project alongside the Internet Archive to capture every local political candidate website in the country, over two election cycles. My work and research has been featured by The New York Times, iTunes, Nieman’s Journalism Lab, Mashable, Poynter, the Shorty Awards, Knight-Mozilla Open News, USA Today, GigaOm, and the Village Voice Web Awards, among others. 
+
+Outside of work, I help run a [civic news cooperative](https://triangleblogblog.com/) focused on Chapel Hill and Carrboro, NC. We've broken major stories which have subsequently been featured on HBO and local and national news organizations. We blend humor with facts, and cover everything from the state legislature to local advisory board meetings using print, digital, and social.

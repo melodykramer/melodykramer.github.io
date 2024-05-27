@@ -34,3 +34,6 @@ Accomplishments:
 - Increased media mentions of faculty and student research by a factor of 10.
 - Grew demographic newsletter aimed at North Carolina leaders to 9,000 digital subscribers with 70%+ open rate.
 - Architected and communications effort to increase Census participation and connect with journalists, non-profits, and libraries around outreach efforts.
+- Promoted the impact and value of UNC’s largest research center to external and internal audiences. 
+- Led the Carolina Population Center’s communications staff in the creation of content that increases awareness of research accomplishments through a variety of media including websites, print publications, videos, infographics, and social media.
+

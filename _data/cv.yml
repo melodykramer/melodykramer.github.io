@@ -61,24 +61,32 @@
       description:
         - Wrote over 70 pieces for National Geographic website and magazine.
 
+    - title: Digital Strategist and editor; Kroc Fellow; Writer, producer, and director.
+      institution: NPR
+      year: 2006-2009, 2013-2015
+      description:
+        - Directed NPR’s engagement across all social networks; produced  and wrote for Wait Wait Don’t Tell Me; reported and directed national broadcasts.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Director of Digital
+      institution: Fresh Air with Terry Gross
+      year: 2010-2012
+      description:
+        - Responsible for all web and social content.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Visiting Fellow, UNC Hussman School of Journalism, Reese News Lab
+    - year: 2015
       items:
-        - Max Planck Medal
+        - Knight-Nieman Visiting Fellowship, Harvard University
+        - Knight Prototype Fellowship
+    - year: 2013
+      items:
+        - Knight-Nieman Visiting Fellowship, Harvard University
+        - Knight Prototype Fellowship
 
 - title: Academic Interests
   type: nested_list

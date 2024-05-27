@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-04-13 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presented at the Population Association of America Conference in session entitled "Facts and Faux-Pas:  Understanding the DOs and DON’Ts of Communicating Scientific Research to Policymakers"

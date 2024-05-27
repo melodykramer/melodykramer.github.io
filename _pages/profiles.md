@@ -11,5 +11,5 @@ profiles:
   # and create one content file for each profile inside _pages/
     content: noah_chestnut.md
   - align: left
-    image: prof_pic.jpg
+    image: home.jpg
 ---

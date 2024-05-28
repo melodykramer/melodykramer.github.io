@@ -7,18 +7,11 @@ importance: 1
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I co-created and now lead a civics blog that fills information gaps in Chapel Hill and Carrboro, NC. The model is unique: We're an all volunteer organization and over 60 people have contributed pieces. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In the past two years, we've published over 800 stories covering everything from UNC to the school board to town council and added historical context and understanding.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Our newsletter and social media are 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

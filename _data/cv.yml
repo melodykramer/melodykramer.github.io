@@ -45,18 +45,34 @@
       description:
         - Wrote over 70 pieces for National Geographic website and magazine.
 
-    - title: Digital Strategist and editor; Kroc Fellow; Writer, producer, and director.
+    - title: Digital Strategist and editor
       institution: NPR
-      year: 2006-2009
       year: 2013-2015
       description:
-        - Directed NPR’s engagement across all social networks; produced  and wrote for Wait Wait Don’t Tell Me; reported and directed national broadcasts.
+        - Directed NPR’s engagement across all social networks.
 
     - title: Director of Digital
       institution: Fresh Air with Terry Gross
       year: 2010-2012
       description:
         - Responsible for all web and social content.
+        - Wrote and produced daily radio promos for broadcast show.
+
+    - title: Associate Producer and Director
+      institution: Wait Wait Don't Tell Me
+      year: 2007-2009
+      description:
+        - Produced, directed, and wrote for NPR's flagship humor show
+        - Launched show on social media
+
+    - title: Kroc Fellow
+      institution: NPR
+      year: 2006 - 2007
+      description:
+        -  One of three journalists selected nationally for one-year journalism fellowship at NPR
+        -  Wrote and produced radio segments for national broadcast
+        -  Wrote and produced digital segments for npr.org 
+
 
 - title: volunteer
   type: time_table

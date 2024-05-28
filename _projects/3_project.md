@@ -9,7 +9,7 @@ category: work
 
 
 <p><h3>Fresh Air with Terry Gross</h3><p>
-    <p><h4><b>Role:</b>Director of digital and social strategy</h4><p>
+    <p><h4><b>Role:</b> Director of digital and social strategy</h4><p>
 
 I joined Fresh Air as their first web producer and designed a robust social strategy around the idea of "me as tour guide." That is, I would act as a conduit for everyone in the world who didn't have access to Terry Gross on a daily basis. Every day I would share the work that went into our broadcasts - using Tumblr, Twitter, Facebook, and Soundcloud - and use whatever medium or method best suited that day's guest.<p>
 
@@ -22,12 +22,12 @@ Nieman Lab profiled <a href="https://www.niemanlab.org/2012/04/meet-the-most-pop
 </div>
 
 <p><h3>Wait Wait...Don't Tell Me</h3><p>
-    <p><h4><b>Role:</b>Producer, editor, and writer</h4><p>
+    <p><h4><b>Role:</b> Producer, editor, and writer</h4><p>
 
 I was a radio producer and writer at Wait Wait - but with a relatively small staff, we all wore many hats. Thus, in 2007, I created a Facebook page for Carl Kasell, our late co-host. It seems quaint now, but at the time, it was a groundbreaking way for a show to communicate with fans. "Carl" would reveal guests and backstage photos, as well as promote other NPR broadcasts. Our intergenerational social media strategy was written up in <a href="https://web.archive.org/web/20190227040804/http://www.nytimes.com/2007/10/14/fashion/14facebook.html?pagewanted=all&_r=0">the New York Times</a>, and mimicked by many other brands.
 
  <p><h3>NPR Social Media Desk</h3><p>
-    <p><h4><b>Role:</b>Creator and lead writer</h4><p>
+    <p><h4><b>Role:</b> Creator and lead writer</h4><p>
 
 The social media desk began as an email list for NPR bosses and staff members, highlighting experiments on social media taken by the newsroom and offering kudos to staff members who used platforms in their reporting or research. It became an invaluable resource as it morphed into the newsroom sharing back interesting experiments or resources that other newsrooms were using, which were then shared back out to our newsroom.<p>
 
@@ -43,7 +43,7 @@ The social media desk began as an email list for NPR bosses and staff members, h
 
 
 <p><h3>Wikipedia social media</h3><p>
-    <p><h4><b>Role:</b>Led social media team and designed campaigns</b></h4><p>
+    <p><h4><b>Role:</b> Led social media team and designed campaigns</b></h4><p>
 
 Wikipedia is the fifth largest website in the world - almost everyone connected to the internet comes across it. Designing a social media strategy was challenging: there are many audiences, in many different languages, with many different use cases. The Foundation runs some accounts, others are run by volunteers. <p>
 

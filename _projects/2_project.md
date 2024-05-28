@@ -8,7 +8,7 @@ category: work
 ---
 
 <p><h3>Wikimedia Foundation</h3><p>
-    <p><h4><b>Role:</b>Led audience research for communications team</h4><p>
+    <p><h4><b>Role:</b> Led audience research for communications team</h4><p>
 
 The Wikimedia Foundation wanted to develop an integrated, holistic view of their ecosystem of audiences, which include end users, intermediaries, and movement audiences in order to better serve all of these users. They also wanted to organize their understanding of audiences based on user experience (rather than based on organizational structure.)<p>
 
@@ -27,7 +27,7 @@ Through a series of <a href="https://meta.wikimedia.org/wiki/Wikimedia_Foundatio
 </div>
 
 <p><h3>NPR</h3><p>
-    <p><h4><b>Role:</b>Product lead, internal analytics dashboard</h4><p>
+    <p><h4><b>Role:</b> Product lead, internal analytics dashboard</h4><p>
 
 I led a six-week development cycle to <a href="https://www.niemanlab.org/2014/04/building-an-analytics-culture-in-a-newsroom-how-npr-is-trying-to-expand-its-digital-thinking/">reimagine internal analytics dashboards</a> to better suit NPR's reporters and editors. The dashboard was a key element in shifting the newsroom towards a more data-driven culture.
 
@@ -41,7 +41,7 @@ I led a six-week development cycle to <a href="https://www.niemanlab.org/2014/04
 </div>
 
 <p><h3>American Press Institute</h3><p>
-    <p><h4><b>Role:</b>Lead content design and project management</h4><p>
+    <p><h4><b>Role:</b> Lead content design and project management</h4><p>
 
 With Betsy O'Donovan, I produced <a href="https://americanpressinstitute.org/how-to-build-a-metrics-savvy-newsroom/">a detailed report</a> on how to build a metrics-savvy newsroom.
 

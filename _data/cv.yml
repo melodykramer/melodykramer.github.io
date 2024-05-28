@@ -1,24 +1,8 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Melody Kramer
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Masters of Library Science
-      institution: University of North Carolina at Greensboro
-      year: 2022
-      description:
-        - I obtained a masters in library science while working full-time.
-        - 4.0 GPA with coursework in metadata, emerging technology trends, academic research, collection development, usability research, information organization and access.
-        - For my masters project, I worked with the Internet Archive to archive every local political candidate website in the country over two political cycles.
-    - title: Bachelor of Arts
-      institution: University of Pennsylvania
-      year: 2006
-      description:
-        - Magna Cum Laude
 
 - title: Experience
   type: time_table
@@ -63,7 +47,8 @@
 
     - title: Digital Strategist and editor; Kroc Fellow; Writer, producer, and director.
       institution: NPR
-      year: 2006-2009, 2013-2015
+      year: 2006-2009
+      year: 2013-2015
       description:
         - Directed NPR’s engagement across all social networks; produced  and wrote for Wait Wait Don’t Tell Me; reported and directed national broadcasts.
 
@@ -72,6 +57,45 @@
       year: 2010-2012
       description:
         - Responsible for all web and social content.
+
+- title: volunteer
+  type: time_table
+  contents:
+    - title: Co-Founder, Managing Editor
+      institution: Triangle Blog Blog
+      year: 2021 - present 
+      description:
+        - Co-creator and editor of civic news cooperative with 60+ writers covering local news in North Carolina
+        - Helped increase municipal voting turnout 30% over previous cycle in Chapel Hill and Carrboro, NC
+        - Newsletter open rate -  +75%; Reach - 250,000.
+
+    - title: Vice Chair, Board of Directors
+      institution: OWASA
+      year: 2022 - present
+      description: 
+        - Carrboro-Chapel Hill’s not-for-profit public service agency, delivering high-quality water, wastewater and reclaimed water services.
+
+    - title: Advisory Council Member
+      institution: Library of Congress digital advisory council
+      year: 2019 - 2021 
+
+    - title: Board Member
+      institution: HUNC Victory Village Childcare Center
+      year: 2020 - 2021 
+   
+
+    - title: Reader, Knight News Challenge, Libraries 
+      institution: Knight Foundation
+      year: 2016
+  
+    - title: Python Teaching Assistant
+      institution: Hear Me Code 
+      year: 2014 - 2016 
+
+    - title: Volunteer
+      institution: Code for America
+      year: 2013 - 2016 
+ 
 
 - title: Honors and Awards
   type: time_table
@@ -100,10 +124,37 @@
         - Phi Kappa Sigma Fiction Prize, University of Pennsylvania
         - Daily Pennsylvanian Columnist of the Year
         - National Association of Newspaper Columnists, Columnist of the Year (finalist)
-        - olumbia University Scholastic Press Association, Gold Circle Awards, General Column Writing (1rst prize)
+        - Columbia University Scholastic Press Association, Gold Circle Awards, General Column Writing (1rst prize)
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Masters of Library Science
+      institution: University of North Carolina at Greensboro
+      year: 2022
+      description:
+        - I obtained a masters in library science while working full-time.
+        - 4.0 GPA with coursework in metadata, emerging technology trends, academic research, collection development, usability research, information organization and access.
+        - For my masters project, I worked with the Internet Archive to archive every local political candidate website in the country over two political cycles.
+    - title: Bachelor of Arts
+      institution: University of Pennsylvania
+      year: 2006
+      description:
+        - Magna Cum Laude
 
 - title: Other Interests
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.

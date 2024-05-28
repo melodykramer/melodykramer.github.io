@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 <p><h3>Wikimedia Foundation</h3><p>
-    <p><h4><b>Role:</b>Lead content design and project management</b></h4><p>
+    <p><h5><b>Role:</b>Lead content design and project management</h5><p>
 
 For many years, the Wikimedia Foundation flagship website was, itself, <a href="https://web.archive.org/web/20170202082715/https://wikimediafoundation.org/wiki/Home">a wiki</a>: the same editable interface that's present on every Wikipedia page. This was great if you were a Wikipedia power user, but difficult to navigate for other users.
 
@@ -29,7 +29,7 @@ In 2018, the Foundation decided to redesign their website based on the work we d
 
 
 <p><h3>Carolina Population Center</h3><p>
-    <p><h4><b>Role:</b>Content strategy and design, UX, user interviews and testing</b></h4><p>
+    <p><h5><b>Role:</b>Content strategy and design, UX, user interviews and testing</h5><p>
 
 
 For more than five decades, the Carolina Population Center at the University of North Carolina at Chapel Hill has been the home of interdisciplinary researchers who study population change and impact across the lifespan. The Center houses a number of research projects, ranging from the largest longitudinal dataset related to adolescent health to Carolina Demography, a non-partisan group of demographers providing data for leaders across North Carolina. Over the years, researchers created their own websites for these projects - resulting in a mishmash of brands, styles, and designs.
@@ -52,7 +52,7 @@ I led a team of developers, designers, and subject-matter experts to create both
 </div>
 
 <p><h3>Social and Behavioral Sciences Team (SBST)</h3><p>
-    <p><h4><b>Role:</b>Content strategy and design</b></h4><p>
+    <p><h5><b>Role:</b>Content strategy and design</h5><p>
 
 The Social and Behavioral Sciences Team (SBST) was established by President Obama to use behavioral economics and psychology to improve federal programs. SBST completed a series of pilot projects, including increasing service-member participation in employee retirement plans and reducing the number of students who are accepted to college but "melt" away during the summer.
 

@@ -34,7 +34,9 @@ I led a six-week development cycle to <a href="https://www.niemanlab.org/2014/04
 <p><h3>American Press Institute</h3><p>
     <p><h4><b>Role:</b>Lead content design and project management</b></h4><p>
 
+With Betsy O'Donovan, I produced <a href="https://americanpressinstitute.org/how-to-build-a-metrics-savvy-newsroom/">a detailed report</a> on how to build a metrics-savvy newsroom.
 
+In the course of our reporting, we interviewed two dozen journalists and data analysts across 20 organizations, hunting for practices that were broad enough to be useful to most newsrooms, but specific enough to provide at least a basic blueprint.
 
 
 

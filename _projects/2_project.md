@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Audience research and measurement
+title: Audiences and measurement
 description: How do we reach intended audiences and measure that reach?
 img: assets/img/wikimedia.jpg
 importance: 2

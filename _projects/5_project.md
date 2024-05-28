@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Triangle Blog Blog
-description: Triangle Blog Blog
+title: Deepening civic and mission-driven engagement
+description: Triangle Blog Blog, 18F, Public media membership models
 img: assets/img/triangleblogblog.jpg
 importance: 1
 category: fun

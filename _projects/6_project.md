@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archiving projects
-description: Archiving local political websites and the Fresh Air archive
+description: Archiving local political websites, the Fresh Air archive
 img: assets/img/fresh-air-archive.jpg
 importance: 4
 category: fun

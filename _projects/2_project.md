@@ -5,7 +5,6 @@ description: Social media, UX, content strategy, blog editor
 img: assets/img/wikimedia.jpg
 importance: 2
 category: work
-giscus_comments: false
 ---
 
 I led a team of accomplished communications professionals to grow Wikipedia's audience and to deepen relationships that existing audiences had with Wikipedia, the 5th largest website in the world. As part of this work, I managed the Wikimedia Foundation blog and led the social media team. I also worked closely with our product and global teams to help digital traffic grow, increase our reach on search and social, increase donations during fundraising campaigns, and develop tools to reach new audiences to support Wikimedia.

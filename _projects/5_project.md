@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+title: Triangle Blog Blog
+description: Triangle Blog Blog
+img: assets/img/triangleblogblog.jpg
+importance: 1
 category: fun
 ---
 

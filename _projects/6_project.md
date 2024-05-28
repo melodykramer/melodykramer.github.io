@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Archiving projects
+description: Archiving local political websites and the Fresh Air archive
+img: assets/img/fresh-air-archive.jpg
 importance: 4
 category: fun
 ---

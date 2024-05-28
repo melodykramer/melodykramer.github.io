@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Audiences and measurement
+title: Audiences and measuring
 description: How do we reach intended audiences and measure that reach?
-img: assets/img/wikimedia.jpg
+img: assets/img/wikimedia-audience-research.jpg
 importance: 2
 category: work
 ---
@@ -30,6 +30,15 @@ Through a series of <a href="https://meta.wikimedia.org/wiki/Wikimedia_Foundatio
     <p><h4><b>Role:</b>Product lead, internal analytics dashboard</b></h4><p>
 
 I led a six-week development cycle to <a href="https://www.niemanlab.org/2014/04/building-an-analytics-culture-in-a-newsroom-how-npr-is-trying-to-expand-its-digital-thinking/">reimagine internal analytics dashboards</a> to better suit NPR's reporters and editors. The dashboard was a key element in shifting the newsroom towards a more data-driven culture.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/npr-analytics-dashboard.jpg" title="NPR analytics dashboard" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The Wikimedia website was transformed from an editable wiki to a mission-driven website.
+</div>
 
 <p><h3>American Press Institute</h3><p>
     <p><h4><b>Role:</b>Lead content design and project management</b></h4><p>

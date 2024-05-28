@@ -11,8 +11,9 @@
       institution: Carolina Population Center, University of North Carolina at Chapel Hill
       year: 2021 - present 
       description:
-        - I oversee the communications, branding, digital media, and media relations strategy for a 300-person research center at the University of North Carolin - Chapel Hill that has generated over $250 million in grants over the past 5 years. I collaborate with a team of professionals who create content across digital, social, and print platforms, highlighting the achievements of our faculty, staff, and students.
-        - I also provide communications and digital strategy support to our faculty and senior leadership team, helping to promote the impact of our research to external and internal audiences. That can vary from prepping a faculty member for congressional testimony, to creating a social media strategy for a longitudinal study, to leading UX and content strategy for a website redesign.
+        - Oversee the communications, branding, digital media, and media relations strategy for 300-person research center at the University of North Carolina - Chapel Hill that has generated over $250 million in grants over the past 5 years. 
+        - Collaborate with a team of professionals who create content across digital, social, and print platforms, highlighting the achievements of our faculty, staff, and students.
+        - Provide communications and digital strategy support to our faculty and senior leadership team, helping to promote the impact of our research to external and internal audiences. 
     - title: Director of Communications
       institution: Carolina Demography, Carolina Population Center
       year: 2019 - 2021
@@ -73,8 +74,7 @@
         -  Wrote and produced radio segments for national broadcast
         -  Wrote and produced digital segments for npr.org 
 
-
-- title: volunteer
+- title: Volunteer
   type: time_table
   contents:
     - title: Co-Founder, Managing Editor
@@ -161,16 +161,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - <u>Hobbies:</u> Photography, Website development for local non-profits

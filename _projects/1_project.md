@@ -5,7 +5,7 @@ description: Director of Communications
 img: assets/img/carolina-population-center.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 I oversee the communications, branding, digital media, and media relations strategy for a 300-person research center at the University of North Carolin - Chapel Hill that has generated over $250 million in grants over the past 5 years. I collaborate with a team of professionals who create content across digital, social, and print platforms, highlighting the achievements of our faculty, staff, and students. 

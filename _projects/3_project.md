@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Social media strategy
-description: Acting as a guide to connect mission-driven organizations with existing and future audiences
+description:  Connecting mission-driven organizations with existing and future audiences
 img: assets/img/solar-eclipse.jpg
 importance: 3
 category: work

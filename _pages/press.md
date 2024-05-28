@@ -147,83 +147,83 @@ nav_order: 6
 
 <h3>Talks</h3>
 
-Facts and Faux-Pas:  Understanding the DOs and DON’Ts of Communicating Scientific Research to Policymakers'
-  <i>Population Association of America,</i> 2023
+<p>Facts and Faux-Pas:  Understanding the DOs and DON’Ts of Communicating Scientific Research to Policymakers'<p>
+  <i>Population Association of America,</i> 2023<p>
 
-Building Open Source Tools and Working in the Open 
-  <i>Triangle Open Data Day,</i> 2016
+Building Open Source Tools and Working in the Open<p> 
+  <i>Triangle Open Data Day,</i> 2016<p>
 
-Building in the Open with 18F 
-  <i>Digital Services Team, State of North Carolina</i> 2015
+Building in the Open with 18F <p>
+  <i>Digital Services Team, State of North Carolina</i> 2015<p>
 
-The Future of Membership
-  <i>Newsgeist</i> 2015
+The Future of Membership<p>
+  <i>Newsgeist</i> 2015<p>
 
-How Public Radio Stations Can Unlock the Power of Crowds
-  <i>PMDMC</i> 2015
+How Public Radio Stations Can Unlock the Power of Crowds<p>
+  <i>PMDMC</i> 2015<p>
 
-Five Great Ideas for the Future of Public Media 
-  <i>PMDMC</i> 2015
+Five Great Ideas for the Future of Public Media <p>
+  <i>PMDMC</i> 2015<p>
 
-Expanding the Definition of Membership in Public Media 
-  <i>Berkman Center for Internet and Society</i> 2015
+Expanding the Definition of Membership in Public Media <p>
+  <i>Berkman Center for Internet and Society</i> 2015<p>
 
-Analytics in the Newsroom
-  <i>NJ News Commons & The Geraldine R. Dodge Foundation</i> 2015
+Analytics in the Newsroom<p>
+  <i>NJ News Commons & The Geraldine R. Dodge Foundation</i> 2015<p>
 
-The Future of Podcasting 
-  <i>ORDCamp. Chicago</i> 2015
+The Future of Podcasting <p>
+  <i>ORDCamp. Chicago</i> 2015<p>
 
-Analytics and Tools For Your Newsroom That You’ll Actually Want To Use
-  <i>Poynter News University</i> 2014
+Analytics and Tools For Your Newsroom That You’ll Actually Want To Use<p>
+  <i>Poynter News University</i> 2014<p>
 
-Analytics and Community Building
-  <i>Columbus, OH. The Ohio State University</i> 2014
+Analytics and Community Building<p>
+  <i>Columbus, OH. The Ohio State University</i> 2014<p>
 
-How to Un#$%$ Public Media
-  <i>Newsgeist (formerly newsfoo)</i> 2014
+How to Un#$%$ Public Media<p>
+  <i>Newsgeist (formerly newsfoo)</i> 2014<p>
 
-Thinking About The User - A Journalism Product Workshop
-  <i>Mozfest. London, England</i> 2014
+Thinking About The User - A Journalism Product Workshop<p>
+  <i>Mozfest. London, England</i> 2014<p>
 
-How to Think about Analytics in the Newsroom
-  <i>Online News Association. Chicago, IL</i> 2014
+How to Think about Analytics in the Newsroom<p>
+  <i>Online News Association. Chicago, IL</i> 2014<p>
 
-What Does It Mean To Be a Member of a Public Media Station?)'
-  <i>Weapons of Mass Creation conference</i> 2014
+What Does It Mean To Be a Member of a Public Media Station?)'<p>
+  <i>Weapons of Mass Creation conference</i> 2014<p>
 
-Rethinking the Article Machine 
-  <i>National Gay and Lesbian Journalism Conference</i> 2014
+Rethinking the Article Machine <p>
+  <i>National Gay and Lesbian Journalism Conference</i> 2014<p>
 
-Analytics in Mobile Journalism 
-  <i>National Asian-American Journalism Conference</i> 2014
+Analytics in Mobile Journalism <p>
+  <i>National Asian-American Journalism Conference</i> 2014<p>
 
-Social Media Ethics 
-  <i>National Asian-American Journalism Conference</i> 2014
+Social Media Ethics <p>
+  <i>National Asian-American Journalism Conference</i> 2014<p>
 
-Building Smart Newsroom Tools' 
-  <i>SRRCON</i> 2014
+Building Smart Newsroom Tools <p>
+  <i>SRRCON</i> 2014<p>
 
-Analytics Symposium 
-  <i>American Press Institute</i> July 2014
+Analytics Symposium <p>
+  <i>American Press Institute</i> July 2014<p>
 
-Building an Analytics Culture in Your Newsroom 
-  <i>International Symposium on Online Journalism</i> April 2014
+Building an Analytics Culture in Your Newsroom <p>
+  <i>International Symposium on Online Journalism</i> 2014<p>
 
-How To Be A Human Online' 
-  <i>Social Learning Summit at American University</i> April 2014
+How To Be A Human Online<p>
+  <i>Social Learning Summit at American University</i> 2014<p>
 
-How NPR Views Social' 
-  <i>NPR Foundation Board</i>2014
+How NPR Views Social<p>
+  <i>NPR Foundation Board</i>2014<p>
 
-How I Think About The Internet 
-  <i>University of Pennsylvania.</i> 2014
+How I Think About The Internet <p>
+  <i>University of Pennsylvania</i> 2014<p>
 
-Tips For Engagement' 
-  <i>Columbia University School of Journalism.</i> 2014
+Tips For Engagement<p>
+  <i>Columbia University School of Journalism.</i> 2014<p>
 
-Rethinking the Article Machine 
-  <i>Online News Association.</i>2013
+Rethinking the Article Machine <p>
+  <i>Online News Association</i>2013<p>
 
-How Fresh Air’s Social Media Connects with Audiences in an Organic Way' 
-  <i>NPR Digital Services Knight Foundation Training.</i> 2012
+How Fresh Air’s Social Media Connects with Audiences in an Organic Way<p>
+  <i>NPR Digital Services Knight Foundation Training</i> 2012

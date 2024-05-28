@@ -1,35 +1,35 @@
 "science":
-  color: "#6f1926"
+  color: "#f77f15"
 
 "journalism":
-  color: "#de324c"
+  color: "#f4c404"
 
 "pop-culture":
-  color: "#f4895f"
+  color: "#99d01a"
 
 "demography":
-  color: "#f8e16f"
+  color: "#3dc75c"
 
 "archives":
-  color: "#95cf92"
+  color: "#0fc180"
 
 "open gov":
-  color: "#369acc"
+  color: "#d5ebb7"
 
 "books":
-  color: "#9656a2"
+  color: "#99d01a"
 
 "tech":
-  color: "#cbabd1"
+  color: "#4025bb"
 
 "onboarding":
-  color: "#cbabd1"
+  color: "#99d01a"
 
 "public media":
-  color: "#369acc"
+  color: "#6ba50c"
 
 "accessibility":
-  color: "#369acc"
+  color: "#e84e9f"
 
 "North Carolina":
-  color: "#369acc"
+  color: "#b82c76"

@@ -5,4 +5,9 @@ assets/css/main.scss
 assets/js/distillpub/template.v2.js
 assets/plotly/demo.html
 lighthouse_results/**
-_posts/2015-10-20-math.md
+_news/**
+_pages/**
+_projects/**
+README.md
+_config.yml
+_layouts/**

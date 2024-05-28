@@ -1,20 +1,23 @@
 "science":
-  color: "#C2E812"
+  color: "#6f1926"
 
 "journalism":
-  color: "#8B9EB7"
+  color: "#de324c"
 
 "pop-culture":
-  color: "#632A50"
+  color: "#f4895f"
 
 "demography":
-  color: "#8b9eb7"
+  color: "#f8e16f"
 
 "archives":
-  color: "#745296"
+  color: "#95cf92"
 
 "open gov":
-  color: "#745296"
+  color: "#369acc"
 
 "books":
-  color: "#745296"
+  color: "#9656a2"
+
+"tech":
+  color: "#cbabd1"

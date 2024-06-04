@@ -16,11 +16,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I love building audiences.
+Hello, I'm Mel. I'm looking forward to bringing my unique skillset to a full-time senior or lead content role where I can contribute to impactful, public-facing, mission-driven work.
+
+A little about me: I love building audiences for mission-driven organizations and causes.
 
 Throughout my career, I've worked with some of the largest nonprofits and brands in the world, leading teams and projects alongside academics, engineers, journalists, [non-profit executives](https://wikimediafoundation.org/), and [federal government employees](https://18f.gsa.gov/). 
 
-I cut my teeth writing intros for Terry Gross and jokes for Wait Wait...Don't Tell Me, and now spend my time identifying and building audiences, translating and curating information, and increasing engagement in person, in print, and online for mission-driven organizations and causes.
+I cut my teeth writing intros for Terry Gross and jokes for Wait Wait...Don't Tell Me, and now spend my time identifying and building audiences, translating and curating information, and increasing engagement in person, in print, and online.
 
 You can [see some of my work here.](https://melodykramer.github.io/projects/)
 

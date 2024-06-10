@@ -43,7 +43,7 @@ The social media desk began as an email list for NPR bosses and staff members, h
 
 
 <p><h3>Wikipedia social media</h3><p>
-    <p><h4><b>Role:</b> Led social media team and designed campaigns</b></h4><p>
+    <p><h4><b>Role:</b> Led social media team and designed campaigns</h4><p>
 
 Wikipedia is the fifth largest website in the world - almost everyone connected to the internet comes across it. Designing a social media strategy was challenging: there are many audiences, in many different languages, with many different use cases. The Foundation runs some accounts, others are run by volunteers. <p>
 

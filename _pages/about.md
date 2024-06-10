@@ -16,9 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Mel. I'm looking forward to bringing my unique skillset to a full-time senior or lead content role where I can contribute to impactful, public-facing, mission-driven work.
+Hello, I'm Mel. 
 
-A little about me: I love building audiences for mission-driven organizations and causes.
+<b> I'm on the job market! After five years leading communications for the Carolina Population Center and Carolina Demography, I'm finishing up a grant application and some projects and will be looking for my next full-time job. 
+
+I'm looking for a content or audience role in which I can use my unique skillset to contribute to impactful, public-facing, mission-driven work. </b>
 
 Throughout my career, I've worked with some of the largest nonprofits and brands in the world, leading teams and projects alongside academics, engineers, journalists, [non-profit executives](https://wikimediafoundation.org/), and [federal government employees](https://18f.gsa.gov/). 
 

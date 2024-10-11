@@ -20,6 +20,14 @@ Hello, I'm Mel.
 
 I help people and organizations do meaningful, impactful work in publics (media, libraries and archives, civic tech, .gov) infused with a sense of civic joy.
 
+Recently, I've:
+
+- Led a [pop-up newsroom](https://wnclocalnews.com) to support journalists in WNC with products and tools in the aftermath of Hurricane Helene
+- Shaped communications for a group of population researchers at UNC-Chapel Hill
+- Helped a beloved public radio show think about who their audiences could be and how to reach them
+- Advised a foundation on how to create community and connections within its fellowship program
+- Mapped audiences for the 5th largest website in the world
+
 You can [see some of my work here.](https://melodykramer.github.io/projects/)
 
 My work and research has been featured by The New York Times, iTunes, Nieman’s Journalism Lab, Mashable, Poynter, the Shorty Awards, Knight-Mozilla Open News, USA Today, GigaOm, and the Village Voice Web Awards, among others. 

@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello, I'm Mel. 
 
-I help people and organizations do meaningful, impactful work in publics (media, libraries and archives, civic tech, .gov) infused with a sense of civic joy.
+I'm a librarian and journalist. I help people and organizations do meaningful, impactful work in publics (media, libraries and archives, civic tech, .gov) infused with a sense of civic joy.
 
 Recently, I've:
 
@@ -32,4 +32,4 @@ You can [see some of my work here.](https://melodykramer.github.io/projects/)
 
 My work and research has been featured by The New York Times, iTunes, Nieman’s Journalism Lab, Mashable, Poynter, the Shorty Awards, Knight-Mozilla Open News, USA Today, GigaOm, and the Village Voice Web Awards, among others. 
 
-I live in Carrboro, NC with my very-offline family. In my spare time, I serve as chair of the water and sewage board and run a [civic news collective](https://www.triangleblogblog.com) that infuses my community with civic joy (and also provides investigative news.)
+I live in Carrboro, NC with my very-offline family. In my spare time, I serve as chair of the water and sewage board and run a [civic news collective](https://www.triangleblogblog.com) that has hundreds of thousands of readers across North Carolina.

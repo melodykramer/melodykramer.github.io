@@ -32,4 +32,4 @@ You can [see some of my work here.](https://melodykramer.github.io/projects/)
 
 My work and research has been featured by The New York Times, iTunes, Nieman’s Journalism Lab, Mashable, Poynter, the Shorty Awards, Knight-Mozilla Open News, USA Today, GigaOm, and the Village Voice Web Awards, among others. 
 
-I live in Carrboro, NC with my very-offline family.
+I live in Carrboro, NC with my very-offline family. In my spare time, I serve as chair of the water and sewage board and run a [civic news collective](https://www.triangleblogblog.com) that infuses my community with civic joy (and also provides investigative news.)

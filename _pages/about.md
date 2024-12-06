@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello, I'm Mel. 
 
-I'm a librarian and journalist working at the intersection of product, technology, and audience-facing teams. I help people and organizations do meaningful, impactful work in publics (media, libraries and archives, civic tech, .gov) infused with a sense of joy.
+I'm a librarian and journalist. I currently work at [ProPublica](https://www.propublica.org/), where I lead efforts around building products and tools for engagement and crowdsourcing efforts to fuel journalism in the public interest.
 
 Recently, I've:
 
